@@ -17,7 +17,7 @@ Hi, I'm Lucas Farias.
 
 I'm a Web Developer from Brazil, I'm **25 years old** 👶 and **8 years of coding** 🧐.
 
-**A book lover** 📕, a good **video-game player** 🎮🗡 fan
+**A book lover** 📕, a good **video-game player** 🎮
 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 * 👽 Learning any tecnology that apears on my way.
