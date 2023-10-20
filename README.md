@@ -13,15 +13,13 @@
 
 ---- 
 
-Hi, I'm Lucas Farias. 
+Olá, sou o Lucas Farias. 
 
-I'm a Web Developer from Brazil, I'm **25 years old** 👶 and **8 years of coding** 🧐.
+Um engenheiro de software com uma jornada profissional de cerca de 7 anos no mundo da programação. Desde o início da minha carreira, minha paixão por tecnologia e suas constantes inovações tem sido o motor que impulsiona meu crescimento. Sempre me esforço para me manter atualizado com as tendências e avanços técnicos, mantendo-me ávido por conhecimento.
 
-**A book lover** 📕, a good **video-game player** 🎮
+Fora do ambiente de trabalho, sou um ávido leitor. A leitura não é apenas um passatempo para mim, mas uma maneira de explorar novos horizontes e adquirir conhecimentos em diversas áreas. Além disso, sou comprometido com a minha saúde e bem-estar, fazendo exercícios físicos regularmente.
 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
+Atualmente, ocupo uma posição desafiadora como engenheiro frontend sênior no ANYMARKET. Além das minhas responsabilidades técnicas, também assumi o papel de líder técnico, onde colaboro com outros desenvolvedores e compartilho meu conhecimento para fortalecer nossa equipe. Minha trajetória profissional e minha dedicação à tecnologia moldaram minha identidade como um profissional apaixonado e engajado no mundo do desenvolvimento de software.
 
 ----
 
